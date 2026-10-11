@@ -1,4 +1,8 @@
-# VAST Builders Challenge: Video Agents
+# Nostradamus
+
+Built during the VAST Builders Challenge hackathon in collaboration with the original creator. Imported from [jjkexpansion888/vast-builders-challenge](https://github.com/jjkexpansion888/vast-builders-challenge).
+
+## VAST Builders Challenge: Video Agents
 
 > 💡 Before today, see [BEFORE_YOU_BUILD.md](BEFORE_YOU_BUILD.md) for what to do in advance. If you want the PDF version, [click here](docs/BEFORE_YOU_BUILD.pdf).
 

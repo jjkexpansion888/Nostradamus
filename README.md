@@ -79,4 +79,4 @@ Open [http://localhost:8080](http://localhost:8080). Set `PORT` to change the po
 
 ## Credits
 
-This repository preserves the joint hackathon work from [wilsonwongxyz/vast-builders-challenge](https://github.com/wilsonwongxyz/vast-builders-challenge), imported through [jjkexpansion888/vast-builders-challenge](https://github.com/jjkexpansion888/vast-builders-challenge). The original submission remains at [tokensand.com/p/nostradamus](https://tokensand.com/p/nostradamus). The workshop materials and prebuilt infrastructure came from the VAST Builders Challenge; the submission lists VAST Data, NVIDIA, CoreWeave / Weights & Biases, and Cursor among the tools used.
+The workshop materials and prebuilt infrastructure came from the VAST Builders Challenge. The [project submission](https://tokensand.com/p/nostradamus) credits VAST Data, NVIDIA, CoreWeave / Weights & Biases, and Cursor among the tools used, and links to the [hackathon source repository](https://github.com/wilsonwongxyz/vast-builders-challenge).

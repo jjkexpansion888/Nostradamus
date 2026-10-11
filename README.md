@@ -1,6 +1,6 @@
 # Nostradamus
 
-Built during the VAST Builders Challenge hackathon in collaboration with the original creator. 
+Built during the VAST Builders Challenge hackathon 
 
 ## VAST Builders Challenge: Video Agents
 

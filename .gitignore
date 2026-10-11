@@ -4,6 +4,7 @@
 # where every .md is a shipped skill.
 /*.md
 !/README.md
+!/HACKATHON_GUIDE.md
 !/BEFORE_YOU_BUILD.md
 !/BUILD_DAY.md
 !/ARCHITECTURE_REFERENCE.md

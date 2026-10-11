@@ -1,6 +1,6 @@
 # Nostradamus
 
-Built during the VAST Builders Challenge hackathon in collaboration with the original creator. Imported from [jjkexpansion888/vast-builders-challenge](https://github.com/jjkexpansion888/vast-builders-challenge).
+Built during the VAST Builders Challenge hackathon in collaboration with the original creator. 
 
 ## VAST Builders Challenge: Video Agents
 
